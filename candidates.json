@@ -1,0 +1,65 @@
+[
+  {
+    "pk": 1,
+    "name": "Adela Hendricks",
+    "picture": "https://i.pinimg.com/236x/de/12/9a/de129ad12c0cc8c0ba0d94413ee20203--princesses-disney-evil-queens.jpg",
+    "position": "Go разработчик",
+    "gender": "female",
+    "age": 40,
+    "skills": "go, python"
+  },
+  {
+    "pk": 2,
+    "name": "Sheri Torres",
+    "picture": "https://sun1-16.userapi.com/s/v1/ig2/36zowOp3h1YBiB_Clj-2Gh82yODTkXIsLorF_w_ERVSRDKVU3U7_3caRhrRVTqs7E8TZ2ZkFA5GXOv2ixyAHQmQr.jpg?size=200x0&quality=96&crop=3,3,728,728&ava=1",
+    "position": "Delphi developer",
+    "gender": "female",
+    "age": 26,
+    "skills": "Delphi, pascal, fortran, basic"
+  },
+  {
+    "pk": 3,
+    "name": "Burt Stein",
+    "picture": "https://i08.fotocdn.net/s108/e5b89396755a65db/gallery_xs/2373274178.jpg",
+    "position": "Team lead",
+    "gender": "male",
+    "age": 33,
+    "skills": "делегирование, пользоваться календарем, обсуждать важные вопросы"
+  },
+  {
+    "pk": 4,
+    "name": "Bauer Adkins",
+    "picture": "https://i.pinimg.com/280x280_RS/88/70/0e/88700e05d9f2a18170308e2c0d85d1d9.jpg",
+    "position": "CTO",
+    "gender": "male",
+    "age": 37,
+    "skills": "very important face"
+  },
+  {
+    "pk": 5,
+    "name": "Day Holloway",
+    "picture": "https://sun1-96.userapi.com/s/v1/if2/lcS5XD9w8341WHo1l3S7jzREoeC_HC-l6o3hXwP-gkWzsFqEA9lZaE11s_Tdal8L9wwkwXv5i2epG_mfNKCQmf_y.jpg?size=200x0&quality=96&crop=0,38,564,564&ava=1",
+    "position": "HR manager",
+    "gender": "male",
+    "age": 35,
+    "skills": "LinkedIn, telegram, spam, spam, spam"
+  },
+  {
+    "pk": 6,
+    "name": "Austin Cochran",
+    "picture": "https://st1.chatovod.ru/a/2021/03_29/1/2838928_b1617025864695.jpg",
+    "position": "python-develop",
+    "gender": "male",
+    "age": 26,
+    "skills": "python, html"
+  },
+  {
+    "pk": 7,
+    "name": "Sheree Love",
+    "picture": "https://i.pinimg.com/236x/c9/f5/71/c9f571750d9ece1e4085d99e1e0d40ff.jpg",
+    "position": "Django developer",
+    "gender": "female",
+    "age": 33,
+    "skills": "Python, Django, flask, html"
+  }
+]
